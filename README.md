@@ -1,4 +1,4 @@
-Import Logging Module
+# Import Logging Module
 
 1 - Import the logging module from the script as follows:
 
