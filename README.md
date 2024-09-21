@@ -1,3 +1,5 @@
+Import Logging Module
+
 1 - Import the logging module from the script as follows:
 
 from get_logging import logger_object
